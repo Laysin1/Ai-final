@@ -1,0 +1,6 @@
+echo env/ > .gitignore
+echo __pycache__/ >> .gitignore
+echo *.dll >> .gitignore
+echo *.pyd >> .gitignore
+echo *.so >> .gitignore
+echo .ipynb_checkpoints/ >> .gitignore
